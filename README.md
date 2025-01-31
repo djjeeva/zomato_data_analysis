@@ -13,7 +13,10 @@ I am pleased to share my latest project, a Zomato Sales Analysis Dashboard creat
 - Impact of Ratings: Higher-rated restaurants receive more orders.
 - Customer Retention: Repeat customers account for over 60% of total sales.
 - Seasonal Trends: Increased sales during festive periods highlight the need for promotional strategies.
+  
+## Front page
 
+![Image](https://github.com/user-attachments/assets/3f007dd9-87be-4f1e-8270-036eee04e73a)
 
 ## Dashboard Features
 
