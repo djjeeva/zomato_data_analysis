@@ -17,24 +17,18 @@ I am pleased to share my latest project, a Zomato Sales Analysis Dashboard creat
 
 ## Dashboard Features
 
-Sales Performance Overview
+- Sales Performance Overview
 
-Geographical Sales Analysis
+- Geographical Sales Analysis
 
-Customer Behavior Insights
+- Customer Behavior Insights
 
-Restaurant Ratings and Their Impact
+- Restaurant Ratings and Their Impact
 
-Project Links
-
-Power BI Report: View Dashboard
-
-GitHub Repository: Project Link
-
-Dataset: Source - Kaggle
+### Dashboard Link
+If you're interested in exploring and interacting with the dashboard,[click here](https://app.powerbi.com/view?r=eyJrIjoiZWFkNGJmYTMtNzIzZS00Y2YyLWExYjAtOGYxNTVjYmYyMDM0IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9)
 
 This project demonstrates how data visualization can provide meaningful business insights. I welcome any feedback or discussions on potential improvements.
 
-Contact
-
-For any queries or suggestions, feel free to connect.
+## Contact
+For any questions or further information, please contact    [Jeevitha D J](http://jeevithadj1999@gmail.com#fragment)
