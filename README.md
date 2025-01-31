@@ -17,6 +17,9 @@ I am pleased to share my latest project, a Zomato Sales Analysis Dashboard creat
 ## Front page
 
 ![Image](https://github.com/user-attachments/assets/3f007dd9-87be-4f1e-8270-036eee04e73a)
+![Image](https://github.com/user-attachments/assets/253607d1-ad93-4e35-8625-d598e466bbcc)
+![Image](https://github.com/user-attachments/assets/8fb8829f-b782-4f6d-a450-7c47cd7192f5)
+![Image](https://github.com/user-attachments/assets/a816d342-071a-4041-93f1-1d0d29dd8a6e)
 
 ## Dashboard Features
 
